@@ -1,11 +1,11 @@
 ### About me
 
-<h1 align="center">Hi 👋, I'm YoungJin Oh, A student who wants to code hope</h1>
-<h3 align="center">I am studying with students who are receiving government support and are eager to learn at Sparta Coding Club!</h3>
+<h1 align="left">Hi 👋, I'm YoungJin Oh, A student who wants to code hope</h1>
+<h3 align="left">I am studying with students who are eager to learn at Sparta Coding Club!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnj0408&label=Profile%20views&color=0e75b6&style=flat" alt="dnj0408" /> </p>
 
-- 🌱 I’m currently learning **Html, Css, JavaScript,**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript,**
 
 - 📫 How to reach me **oyj921205@gmail.com**
 
