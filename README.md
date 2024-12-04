@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
 
-- 📝 I regularly write articles on [https://velog.io/@dnj0408/posts(https://velog.io/@dnj0408/posts)]
+- 📝 I regularly write articles on [https://velog.io/@dnj0408/posts](https://velog.io/@dnj0408/posts)
 
 - 📫 How to reach me **oyj921205@gmail.com**
 
