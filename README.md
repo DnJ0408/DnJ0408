@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnj0408&label=Profile%20views&color=0e75b6&style=flat" alt="dnj0408" /> </p>
 
-- 🌱 I’m currently learning **Html, Css, JavaScript and React**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
 
 - 📝 I regularly write articles on [https://velog.io/@dnj0408/posts](https://velog.io/@dnj0408/posts)
 
