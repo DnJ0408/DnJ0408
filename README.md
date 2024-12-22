@@ -1,7 +1,3 @@
-### About me
-
-<h1 align="center">Hi 👋, I'm YoungJin Oh, A student who wants to code hope</h1>
-<h3 align="center">I am studying with students who are receiving government support and are eager to learn at Sparta Coding Club!</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dnj0408&label=Profile%20views&color=0e75b6&style=flat" alt="dnj0408" /> </p>
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and React**
 - 📝 I regularly write articles on [https://debnjin.tistory.com/](https://debnjin.tistory.com/)
